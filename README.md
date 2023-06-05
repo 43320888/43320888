@@ -1,4 +1,4 @@
-# portfolio
+# resume
 Telus Inc.
 Япония, telusinternational.com
 
